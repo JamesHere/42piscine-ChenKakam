@@ -1,2 +1,0 @@
-  Issued                Expires               Principal
-May 14 19:10:44 2018  May 15 05:10:44 2018  krbtgt/42.US.ORG@42.US.ORG
