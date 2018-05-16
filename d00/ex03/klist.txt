@@ -1,0 +1,7 @@
+Credentials cache: API:36056
+        Principal: gqiao@42.US.ORG
+
+  Issued                Expires               Principal
+May 14 20:06:22 2018  May 15 06:06:21 2018  krbtgt/42.US.ORG@42.US.ORG
+May 14 20:06:23 2018  May 15 06:06:21 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
+May 14 20:10:18 2018  May 15 06:06:21 2018  host/vgs-fn1.42.us.org@42.US.ORG
