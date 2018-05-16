@@ -1,7 +1,0 @@
-dn: uid=kachen,ou=may,ou=2018,ou=people,dc=42,dc=us,dc=org
-changetype: modify
-delete: mobile
-mobile: 4242
--
-add: mobile
-mobile: 3038197450

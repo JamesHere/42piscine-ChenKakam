@@ -1,0 +1,5 @@
+Credentials cache: API:32834
+        Principal: kachen@42.US.ORG
+
+  Issued                Expires               Principal
+May 15 20:02:06 2018  May 16 06:02:06 2018  krbtgt/42.US.ORG@42.US.ORG
